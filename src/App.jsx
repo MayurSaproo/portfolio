@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 // --- Explicitly IMPORT YOUR IMAGES HERE ---
 import imgA from './imga.png';
-import imgB from './imgb.png';
+import imgB from './imge.png';
 import imgC from './imgc.png';
 import imgD from './imgd.png';
 
