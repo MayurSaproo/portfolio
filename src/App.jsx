@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 // --- Explicitly IMPORT YOUR IMAGES HERE ---
 import imgA from './imga.png';
 import imgB from './imge.png';
-import imgC from './imgc.png';
+import imgC from './imgf.png';
 import imgD from './imgd.png';
 
 // --- NATIVE ICON COMPONENTS ---
@@ -248,9 +248,9 @@ function App() {
               <div className="bg-slate-100 h-48 rounded-xl mb-6 overflow-hidden relative">
                 <img src={imgC} alt="InsurIQ.ai" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
               </div>
-              <h3 className="text-xl font-bold text-slate-900 mb-2">InsurIQ.ai</h3>
-              <p className="text-sm text-slate-600 mb-4">Healthcare cost prediction model using Random Forest ML and FastAPI. Provides real-time financial forecasting.</p>
-              <a href="#" className="text-indigo-600 font-medium text-sm inline-flex items-center gap-1 hover:gap-2 transition-all">Demo →</a>
+              <h3 className="text-xl font-bold text-slate-900 mb-2">Reassume.ai</h3>
+              <p className="text-sm text-slate-600 mb-4">Resume skill extraction model using Random Forest ML and FastAPI. Provides real-time job role predictions.</p>
+              <a href="https://reassumeai.vercel.app/" target="_blank" rel="noreferrer" className="text-indigo-600 font-medium text-sm inline-flex items-center gap-1 hover:gap-2 transition-all">Demo →</a>
             </div>
 
             {/* Project 2 (imgd.png) */}
