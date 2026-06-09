@@ -259,7 +259,7 @@ function App() {
                 <img src={imgD} alt="Jelium.ai" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
               </div>
               <h3 className="text-xl font-bold text-slate-900 mb-2">Jelium.ai</h3>
-              <p className="text-sm text-slate-600 mb-4">An intelligent platform leveraging advanced AI/ML models to deliver optimized solutions and data-driven insights.</p>
+              <p className="text-sm text-slate-600 mb-4">JEE qualification prediction model using Scikit-learn ML and FastAPI. Provides exam success forecasting.</p>
               <a href="https://jeliumai.vercel.app/" target="_blank" rel="noreferrer" className="text-indigo-600 font-medium text-sm inline-flex items-center gap-1 hover:gap-2 transition-all">Demo →</a>
             </div>
           </div>
